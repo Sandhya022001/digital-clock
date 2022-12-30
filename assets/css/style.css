@@ -1,0 +1,26 @@
+
+   *{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+ body{
+	
+	 background-color:black;
+	 color:white;
+	  font-size:64px;
+	  font-weight:900;
+ }
+  
+  .digitalclock{
+	
+	position : absolute;
+	top : 50%;
+	left : 50%;
+	color :  cyan;
+	transform : translate(-50%,-50%);
+	text-shadow : 5px 5px 20px aqua;
+
+	 
+  }
